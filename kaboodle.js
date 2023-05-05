@@ -17,8 +17,6 @@
     {"title": "Six Reasons Your Wifi Is Your Most Important Relationship", "creative":  "/creatives/wif.jpg", "href": "http://elitedaily.com/life/culture/6-reasons-wifi-connection-important-relationship/"},
     {"title": "7 Overhyped Games That Ended Up Being Terrible", "creative":  "/creatives/terrible.jpg", "href": "http://www.looper.com/2323/hyped-games-ended-terrible/"},
     {"title": "Games That Punish You Seriously For Dying", "creative": "/creatives/dying.jpg", "href": "http://www.looper.com/2117/games-seriously-punish-dying"},
-    {"title": "Find Out How This Shitty Dude Met A Girl", "creative": "/creatives/shittydudemale.jpg", "href": "http://www.shittydudefinder.com/?utm_source=kaboodle&utm_medium=referral&utm_content=male"},
-    {"title": "But She Likes It...10 Women Who Dig Shitty Dudes", "creative": "/creatives/shittydudefemale.jpg", "href": "http://www.shittydudefinder.com/?utm_source=kaboodle&utm_medium=referral&utm_content=female"},
     {"title": "5 Weiner Dogs Compete In Adorable Water Race", "creative": "/creatives/weinerrace.jpg", "href": "http://www.littlebudha.com/dachshund-500-water-race/"},
     {"title": "Healthy Morning Drinks to Start Your Day Off", "creative": "/creatives/morningdrinks.png", "href": "http://epphany.com/site/post/577/"},
     {"title": "Best Ways to Scare Your Girlfriend", "creative": "/creatives/scaregirlfriend.png", "href": "http://epphany.com/site/post/116/"},
@@ -29,8 +27,7 @@
     {"title": "So You Want to Date an Artist", "creative": "/creatives/saveartist.png", "href": "http://blog.newhive.com/so-u-want-to-date-an-artist/"},
     {"title": "Weight-lifting Kangaroo has Neighborhod on High Alert", "creative": "/creatives/buffkang.png", "href": "http://www.theweathernetwork.com/us/news/articles/animals/massive-super-buff-kangaroo-muscles-in-on-neighbourhood/51634/"},
     {"title": "Are Lentils a Low-Calorie Food?", "creative": "/creatives/lents.png", "href": "http://healthyeating.sfgate.com/lentils-lowcalorie-food-1034.html"},
-    {"title": "10 Small Dogs and What They're Like", "creative": "/creatives/pug.jpg", "href": "http://www.sheknows.com/pets-and-animals/articles/808128/top-10-small-breed-dogs"},
-    {"title": "15 Hot Female Athletes Who Are Only Famous For Their Looks", "creative": "/creatives/fathletes.jpg", "href": "http://www.rantsports.com/clubhouse/2014/04/04/15-hot-female-athletes-who-are-only-famous-for-their-looks"}
+    {"title": "10 Small Dogs and What They're Like", "creative": "/creatives/pug.jpg", "href": "http://www.sheknows.com/pets-and-animals/articles/808128/top-10-small-breed-dogs"}
   ];
 
   /* most recently parsed script */
