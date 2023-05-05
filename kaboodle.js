@@ -55,7 +55,7 @@
   var kaboodleHeader = document.createElement("a");
   kaboodleHeader.className = "kaboodle-header";
   kaboodleHeader.href = 'https://github.com/ptsteadman/kaboodle';
-  kaboodleHeader.innerHTML = "Sponsored Links By Kaboodle";
+  kaboodleHeader.innerHTML = "ads so that we can get money to get out of mr poffs class";
   kaboodleModuleNode.appendChild(kaboodleHeader);
   var kaboodleItems = document.createElement("div");
   kaboodleItems.className = "kaboodle-items";
