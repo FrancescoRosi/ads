@@ -54,8 +54,8 @@
 
   var kaboodleHeader = document.createElement("a");
   kaboodleHeader.className = "kaboodle-header";
-  kaboodleHeader.href = 'https://github.com/ptsteadman/kaboodle';
-  kaboodleHeader.innerHTML = "Sponsored Links by Kaboodle";
+  kaboodleHeader.href = 'https://taboola.com';
+  kaboodleHeader.innerHTML = "Sponsored Links by Taboola";
   kaboodleModuleNode.appendChild(kaboodleHeader);
   var kaboodleItems = document.createElement("div");
   kaboodleItems.className = "kaboodle-items";
